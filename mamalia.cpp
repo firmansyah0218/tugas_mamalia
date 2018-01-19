@@ -11,5 +11,11 @@ class mamalia{
 
 int main(){
 
+	mamalia mamaliaTikus,mamaliaHamster,mamaliaTupai;
+	
+	mamaliaTikus.warnaBulu = "ABU ABU ";
+	mamaliaHamster.warnaBulu = "PUTIH BERGARIS COKLAT ";
+	mamaliaTupai.warnaBulu = "COKLAT BERGARIS ORANGE ";
+	
 
 }
