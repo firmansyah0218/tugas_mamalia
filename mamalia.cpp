@@ -17,5 +17,8 @@ int main(){
 	mamaliaHamster.warnaBulu = "PUTIH BERGARIS COKLAT ";
 	mamaliaTupai.warnaBulu = "COKLAT BERGARIS ORANGE ";
 	
+	mamaliaTikus.jenisMakanan = "Daging ,Buah.";
+	mamaliaHamster.jenisMakanan = "Biji-bijian.";
+	mamaliaTupai.jenisMakanan = "Biji-bijian , Buah.";
 
 }
