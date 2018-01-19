@@ -8,3 +8,8 @@ class mamalia{
 		string jenisMakanan;
 		string warnaBulu;
 };
+
+int main(){
+
+
+}
